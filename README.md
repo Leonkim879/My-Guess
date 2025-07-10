@@ -1,6 +1,6 @@
 # Leon Kimutai Langat
-18 years old
-Kenyan
+**Age**: 18 years old
+**Nationality**: Kenyan
 
 ##Skills and developments.
 -{Ambition}

@@ -1,3 +1,3 @@
 # Leon Kimutai Langat
-#18 years old
-#Kenyan
+18 years old
+Kenyan
